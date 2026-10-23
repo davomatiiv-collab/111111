@@ -1,0 +1,6 @@
+{
+  "name": "IIV AI Yordamchi",
+  "description": "Ichki ishlar organlari xodimlari uchun sun’iy intellekt asosidagi aqlli yordamchi va hujjatlar boshqaruvi platformasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
